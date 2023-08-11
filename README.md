@@ -20,8 +20,8 @@ Your users should be able to:
 ![](./screenshot/mobile.png)
 
 ### Links
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (https://github.com/DanielaMichelle/faq-accordion-card-main)
+- Live Site URL: (https://danielamichelle.github.io/faq-accordion-card-main/)
 
 ### Built with
 
